@@ -22,7 +22,7 @@
 ### :man_technologist: About me
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
  
-- 🌱I am growing my knowledge in **ReactJs, TypeScript, ComputerScience**
+- 🌱I am growing my knowledge in **ReactJs, TypeScript, Computer Science**
 
 - 💬 **I am headed for becoming Frontend Developer**
 
