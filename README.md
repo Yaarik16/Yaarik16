@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-
+<br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/yaroslav-dimbrovskyi-00378927a//">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,7 +13,7 @@
   <h1>
     Hey there 👋
   </h1>
-    <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="600" height="400"/>
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--HPdCp6wU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fm9dtfef0828cdghi9aq.gif" width="800" height="350"/>
 
 </div>
 
