@@ -13,8 +13,6 @@
   <h1>
     Hey there 👋
   </h1>
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--HPdCp6wU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fm9dtfef0828cdghi9aq.gif" width="800" height="350"/>
-
 </div>
 
 
@@ -46,13 +44,10 @@ I am a Frontend Developer from Ukraine.
 ---
 
 ### 🔥 My Stats :
-<div>
-  <div style={{}display:'flex'}>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaarik16&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="Yaarik16 GitHub Stats" style="margin-right: 20px;" />
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Yaarik16&show_icons=true&layout=compact&theme=vision-friendly-dark" alt="yaarik16" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaarik16&layout=compact&theme=vision-friendly-dark" alt="yaarik16" /></p>
-
-<p><img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE2MjQ1NjcsIm5iZiI6MTcwMTYyNDI2NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjAzVDE3MjQyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4ZmZjOTE2Y2RlNzhhYjIwNWM3YTA0Yjc2ZTM0ZWQ5MzlhNWMwMDVlNmNiNTU3NTI4MjNiN2E3MTgxOTdkZjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ORrAJTsfAAR7LCtIwgbJZtu84M_02MWdXzTfVR3uw2M"></p>
-
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaarik16&layout=compact&theme=vision-friendly-dark" alt="Yaarik16 Top Languages" style="margin-right: 20px;" />
+  
 </div>
+
