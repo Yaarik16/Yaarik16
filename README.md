@@ -1,4 +1,4 @@
-# Hi there, I'm Yaroslav Dombrovsky 👋
+# Hi there, I'm Yaroslav Dimbrovskyi 👋
 
 🎓 Computer Science student at the **University of Manitoba**, Canada.
 
